@@ -10,7 +10,7 @@ function Banner() {
           alt="banner"
           src={bannerImage}
         />
-        <div className="absolute bg-white top-2 left-2 md:top-5 md:left-5 bg-transparent border border-solid cursor-default hover:scale-110 transition-all duration-300 hover:opacity-30 border-white">
+        <div className="absolute cursor-not-allowed top-2 left-2 md:top-5 md:left-5 bg-transparent border border-solid hover:scale-110 transition-all duration-300 hover:opacity-30 border-white">
           <h1 className=" text-sm md:text-xl text-white font-semibold md:px-5 md:py-2 px-2 py-1">
             FAMILY LAW
           </h1>
