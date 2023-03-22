@@ -4,7 +4,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 function AboutUs() {
   return (
-    <div className="p-2 md:py-10 flex md:space-x-7 flex-col md:flex-row md:justify-center items-start md:items-start">
+    <div className="p-2 md:py-10 bg-gray-100 flex md:space-x-7 flex-col md:flex-row md:justify-center items-start md:items-start">
       <img
         alt="lawyers"
         src={lawyersImage}

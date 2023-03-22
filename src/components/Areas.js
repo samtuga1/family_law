@@ -29,7 +29,7 @@ function Areas() {
     },
   ];
   return (
-    <div className="flex flex-col items-center space-y-3 pb-10 pt-7 overflow-x-scroll">
+    <div className="flex flex-col items-center bg-gray-100 space-y-3 pb-10 pt-7 overflow-x-scroll">
       <p className="font-bold text-2xl md:text-4xl text-center transition-all duration-300">
         OUR AREAS OF <span className=" text-[#E5912E]">EXPERTISE</span>
       </p>
